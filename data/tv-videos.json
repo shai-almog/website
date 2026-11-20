@@ -81,6 +81,16 @@
     "avatar" : "https://yt3.googleusercontent.com/lBBGPlk8vAWzHrZnLSdLptAvZi4N6rR3UYMwrFD62vQ5XdG-qkYtVDLyWETTrId7Dn_CqDeJUw=s176-c-k-c0x00ffffff-no-rj"
   } ],
   "videos" : [ {
+    "id" : "zv7IDjz62Dw",
+    "channel" : "JetBrainsTV",
+    "title" : "Rust & AI: Keeping Humans in the Loop",
+    "published" : "2026-11-20T05:23:37+00:00"
+  }, {
+    "id" : "Wy4pfglazFg",
+    "channel" : "sivalabs",
+    "title" : "mise: One Tool To Rule Them All",
+    "published" : "2026-11-19T09:41:17+00:00"
+  }, {
     "id" : "xE7EfRg5z8M",
     "channel" : "azulsystems",
     "title" : "Azul Account Executive Steven Piper Shares Security Insights",
@@ -545,11 +555,6 @@
     "channel" : "JetBrainsTV",
     "title" : "Live-Building AI-Driven PCG with Godot, C#, and Gemini | Sharmishtha Sen | GameDev Day 2026",
     "published" : "2026-10-19T14:46:50+00:00"
-  }, {
-    "id" : "ArRxCTD9EU4",
-    "channel" : "JetBrainsTV",
-    "title" : "Death by a Thousand Ticks: Why Gameplay Systems Become Slow | Konrad Słoń | GameDev Day 2026",
-    "published" : "2026-10-19T14:46:39+00:00"
   }, {
     "id" : "y8HtFI5JNlE",
     "channel" : "intellijidea",
@@ -1261,5 +1266,5 @@
     "title" : "MCL #002: Gavin King & Hibernate 6.3",
     "published" : "2023-09-08T04:11:53+00:00"
   } ],
-  "shorts" : [ "0PaX1ZEJkXE", "0WmtbS_ZgGg", "0ZqvxvecXEM", "25p0SDaiDmI", "2B1N8j5ZO2g", "2Wm9OM6kHWY", "45fVUuD9owU", "47owZK_H6ZY", "4CBp35oIEco", "4IDbT7v34jk", "4_O2OBqQSUA", "73h12ueZ9P4", "7jpKk_VpZRA", "8B09y3sIHcA", "8uN-7kAUpTk", "9S9UNVME4tQ", "A_BuSmy7hvk", "C23h92PuJdY", "ChNwHH1Slyk", "DPDtoczO1cE", "DZbMIfk3wM8", "DhT8RPkRYe4", "ETugI1_TKr0", "FDjIcUdpT8U", "FdulTWCQfTQ", "Hb-gca46_bg", "HdMSqgtD3yE", "Ixu8ZK8ENio", "J1ugbLGIjT0", "J9bXhsZMG9k", "KHW61Pw3vn8", "KQBygmRGtTM", "M0Wha6RdIPY", "NRGlFwlzw30", "N_djt-XsdZs", "OyraC_WwubA", "P0mkJY4DIzo", "QXXxXIfr610", "Qp5JMH5aBl4", "RBqm-_HZckI", "RH5vUC9KlOs", "Ro8btyplk7U", "SsP25dSp6Gs", "Sz-rSzL2pGM", "TBDJX9M0AfM", "TFQakAJH6HE", "V6QDeG9iD5k", "V89NJidQs1Y", "WRL8lZnw9tA", "XA5M6alBlYc", "XsbLyD3ZBcs", "Y0Qc8WpY4tM", "Zvv5pu2OeZA", "dKQLbWmM7Jw", "djH8eWBTlCE", "e3D1FHlwfwc", "eDcrmX7TNDc", "eFevIfscMVc", "eHcph5zC-SQ", "fNGMDUcJv1E", "g3PMDDdPLJc", "gNfCER2cAnc", "iv_-3yw-cGA", "jpWqkgomt7M", "k7H-9eZTnyY", "lQ_Crk2egQQ", "lRneS3XyVTo", "lzedPyhUueg", "mCS5EvRYE2s", "nF-fbILi_q8", "o_3fKlij9Zo", "obIiJgMzxR8", "piTR9wKwDnQ", "pk3nsX3HglI", "sdm8-0hN5QA", "sphT6eY3nP4", "sxgBRsBVhPo", "tJCZCw2I1Lk", "uuMKKmi-haw", "wbzv4Iy_bGQ", "wpKTaVUYFUA", "yHLONags7Ps", "yahutvKx6vQ", "yjvTmiJlTJE" ]
+  "shorts" : [ "0PaX1ZEJkXE", "0WmtbS_ZgGg", "0ZqvxvecXEM", "21M2E7Ugqrw", "25p0SDaiDmI", "2B1N8j5ZO2g", "2Wm9OM6kHWY", "45fVUuD9owU", "47owZK_H6ZY", "4CBp35oIEco", "4IDbT7v34jk", "4_O2OBqQSUA", "73h12ueZ9P4", "7jpKk_VpZRA", "8B09y3sIHcA", "8uN-7kAUpTk", "9S9UNVME4tQ", "A_BuSmy7hvk", "C23h92PuJdY", "ChNwHH1Slyk", "DPDtoczO1cE", "DZbMIfk3wM8", "DhT8RPkRYe4", "ETugI1_TKr0", "FDjIcUdpT8U", "FdulTWCQfTQ", "Hb-gca46_bg", "HdMSqgtD3yE", "Ixu8ZK8ENio", "J1ugbLGIjT0", "J9bXhsZMG9k", "KHW61Pw3vn8", "KQBygmRGtTM", "M0Wha6RdIPY", "NRGlFwlzw30", "N_djt-XsdZs", "OyraC_WwubA", "P0mkJY4DIzo", "QXXxXIfr610", "Qp5JMH5aBl4", "RBqm-_HZckI", "RH5vUC9KlOs", "Ro8btyplk7U", "SsP25dSp6Gs", "Sz-rSzL2pGM", "TBDJX9M0AfM", "TFQakAJH6HE", "V6QDeG9iD5k", "V89NJidQs1Y", "W8Ypm3MS50c", "WRL8lZnw9tA", "XA5M6alBlYc", "XsbLyD3ZBcs", "Y0Qc8WpY4tM", "Zvv5pu2OeZA", "bxG6ifY0cik", "dKQLbWmM7Jw", "djH8eWBTlCE", "dnDlZW3Jcdk", "e3D1FHlwfwc", "eDcrmX7TNDc", "eFevIfscMVc", "eHcph5zC-SQ", "fNGMDUcJv1E", "g3PMDDdPLJc", "gNfCER2cAnc", "iv_-3yw-cGA", "jpWqkgomt7M", "k7H-9eZTnyY", "lQ_Crk2egQQ", "lRneS3XyVTo", "lzedPyhUueg", "mCS5EvRYE2s", "nF-fbILi_q8", "o_3fKlij9Zo", "obIiJgMzxR8", "piTR9wKwDnQ", "pk3nsX3HglI", "sdm8-0hN5QA", "sphT6eY3nP4", "sxgBRsBVhPo", "tJCZCw2I1Lk", "uuMKKmi-haw", "vzCsYFnE2OM", "wbzv4Iy_bGQ", "wpKTaVUYFUA", "y2S4umRR5oc", "yHLONags7Ps", "yahutvKx6vQ", "yjvTmiJlTJE" ]
 }
