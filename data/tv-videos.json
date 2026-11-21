@@ -81,6 +81,46 @@
     "avatar" : "https://yt3.googleusercontent.com/lBBGPlk8vAWzHrZnLSdLptAvZi4N6rR3UYMwrFD62vQ5XdG-qkYtVDLyWETTrId7Dn_CqDeJUw=s176-c-k-c0x00ffffff-no-rj"
   } ],
   "videos" : [ {
+    "id" : "4U3LP_HYmQs",
+    "channel" : "coffeesoftware",
+    "title" : "Brian Sam-Bodden on a Bootiful Podcast",
+    "published" : "2026-11-21T07:38:07+00:00"
+  }, {
+    "id" : "-ykW9dMHQGU",
+    "channel" : "hszanowski",
+    "title" : "IntelliJ Platform Hack Session: Tools, Plugins, and Workflow Tweaks",
+    "published" : "2026-11-21T03:19:38+00:00"
+  }, {
+    "id" : "pme1eKkL_E4",
+    "channel" : "hszanowski",
+    "title" : "IntelliJ Platform Hack Session: Tools, Plugins, and Workflow Tweaks",
+    "published" : "2026-11-21T03:15:14+00:00"
+  }, {
+    "id" : "fJP3s1A5jGY",
+    "channel" : "java",
+    "title" : "Evolving the Java Language: An Inside Perspective",
+    "published" : "2026-11-20T12:01:47+00:00"
+  }, {
+    "id" : "AdO-NdzR_z8",
+    "channel" : "JetBrainsTV",
+    "title" : "The Last Software Engineer: Who Actually Makes It Out Alive? | Kent C. Dodds",
+    "published" : "2026-11-20T10:55:19+00:00"
+  }, {
+    "id" : "b5NKlwNUHXk",
+    "channel" : "JetBrainsTV",
+    "title" : "Engineering an AI-Native Frontend Workflow | Chrome, Figma, Storybook, MUI, Callstack, WebStorm",
+    "published" : "2026-11-20T10:51:00+00:00"
+  }, {
+    "id" : "buzyCem_kM0",
+    "channel" : "JetBrainsTV",
+    "title" : "How to Become an AI Engineer and Build a Career That Lasts| Marina Wyss",
+    "published" : "2026-11-20T10:46:23+00:00"
+  }, {
+    "id" : "VD1jaEAu9_8",
+    "channel" : "JetBrainsTV",
+    "title" : "Choose Wisely: Engineering the Branches Between Prompt and Outcome | Danny Thompson",
+    "published" : "2026-11-20T10:44:38+00:00"
+  }, {
     "id" : "zv7IDjz62Dw",
     "channel" : "JetBrainsTV",
     "title" : "Rust & AI: Keeping Humans in the Loop",
@@ -170,11 +210,6 @@
     "channel" : "java",
     "title" : "Why It Takes 3000 Commits to Bring Valhalla’s Value Objects to the JDK",
     "published" : "2026-11-16T10:45:10+00:00"
-  }, {
-    "id" : "4U3LP_HYmQs",
-    "channel" : "coffeesoftware",
-    "title" : "Brian Sam-Bodden on a Bootiful Podcast",
-    "published" : "2026-11-14T20:15:28+00:00"
   }, {
     "id" : "s2ITSa-RKR8",
     "channel" : "anahata108",
@@ -535,26 +570,6 @@
     "channel" : "JetBrainsTV",
     "title" : "Pass the Controller? Communities, Data, and AI in Game Development | GameDev Day 2026",
     "published" : "2026-10-19T14:47:42+00:00"
-  }, {
-    "id" : "-l2kcU81zdI",
-    "channel" : "JetBrainsTV",
-    "title" : "Fix Your CI Without Leaving the IDE: TeamCity MCP and CLI | Artem Rokhin | GameDev Day 2026",
-    "published" : "2026-10-19T14:47:27+00:00"
-  }, {
-    "id" : "Q4490CzX_ag",
-    "channel" : "JetBrainsTV",
-    "title" : "Evolving a Live Game Engine: Introducing ECS Without a Full Rewrite | Alex Zhorau | GameDev Day 2026",
-    "published" : "2026-10-19T14:47:15+00:00"
-  }, {
-    "id" : "STxqvrvci8c",
-    "channel" : "JetBrainsTV",
-    "title" : "How Static Analysis Can Help in the Age of AI | Kai Schmithusen | GameDev Day 2026",
-    "published" : "2026-10-19T14:47:02+00:00"
-  }, {
-    "id" : "L4gsyW2T6BY",
-    "channel" : "JetBrainsTV",
-    "title" : "Live-Building AI-Driven PCG with Godot, C#, and Gemini | Sharmishtha Sen | GameDev Day 2026",
-    "published" : "2026-10-19T14:46:50+00:00"
   }, {
     "id" : "y8HtFI5JNlE",
     "channel" : "intellijidea",
@@ -1266,5 +1281,5 @@
     "title" : "MCL #002: Gavin King & Hibernate 6.3",
     "published" : "2023-09-08T04:11:53+00:00"
   } ],
-  "shorts" : [ "0PaX1ZEJkXE", "0WmtbS_ZgGg", "0ZqvxvecXEM", "21M2E7Ugqrw", "25p0SDaiDmI", "2B1N8j5ZO2g", "2Wm9OM6kHWY", "45fVUuD9owU", "47owZK_H6ZY", "4CBp35oIEco", "4IDbT7v34jk", "4_O2OBqQSUA", "73h12ueZ9P4", "7jpKk_VpZRA", "8B09y3sIHcA", "8uN-7kAUpTk", "9S9UNVME4tQ", "A_BuSmy7hvk", "C23h92PuJdY", "ChNwHH1Slyk", "DPDtoczO1cE", "DZbMIfk3wM8", "DhT8RPkRYe4", "ETugI1_TKr0", "FDjIcUdpT8U", "FdulTWCQfTQ", "Hb-gca46_bg", "HdMSqgtD3yE", "Ixu8ZK8ENio", "J1ugbLGIjT0", "J9bXhsZMG9k", "KHW61Pw3vn8", "KQBygmRGtTM", "M0Wha6RdIPY", "NRGlFwlzw30", "N_djt-XsdZs", "OyraC_WwubA", "P0mkJY4DIzo", "QXXxXIfr610", "Qp5JMH5aBl4", "RBqm-_HZckI", "RH5vUC9KlOs", "Ro8btyplk7U", "SsP25dSp6Gs", "Sz-rSzL2pGM", "TBDJX9M0AfM", "TFQakAJH6HE", "V6QDeG9iD5k", "V89NJidQs1Y", "W8Ypm3MS50c", "WRL8lZnw9tA", "XA5M6alBlYc", "XsbLyD3ZBcs", "Y0Qc8WpY4tM", "Zvv5pu2OeZA", "bxG6ifY0cik", "dKQLbWmM7Jw", "djH8eWBTlCE", "dnDlZW3Jcdk", "e3D1FHlwfwc", "eDcrmX7TNDc", "eFevIfscMVc", "eHcph5zC-SQ", "fNGMDUcJv1E", "g3PMDDdPLJc", "gNfCER2cAnc", "iv_-3yw-cGA", "jpWqkgomt7M", "k7H-9eZTnyY", "lQ_Crk2egQQ", "lRneS3XyVTo", "lzedPyhUueg", "mCS5EvRYE2s", "nF-fbILi_q8", "o_3fKlij9Zo", "obIiJgMzxR8", "piTR9wKwDnQ", "pk3nsX3HglI", "sdm8-0hN5QA", "sphT6eY3nP4", "sxgBRsBVhPo", "tJCZCw2I1Lk", "uuMKKmi-haw", "vzCsYFnE2OM", "wbzv4Iy_bGQ", "wpKTaVUYFUA", "y2S4umRR5oc", "yHLONags7Ps", "yahutvKx6vQ", "yjvTmiJlTJE" ]
+  "shorts" : [ "0PaX1ZEJkXE", "0WmtbS_ZgGg", "0ZqvxvecXEM", "21M2E7Ugqrw", "25p0SDaiDmI", "2B1N8j5ZO2g", "2NS7YOIT20M", "2Wm9OM6kHWY", "45fVUuD9owU", "47owZK_H6ZY", "4CBp35oIEco", "4IDbT7v34jk", "4_O2OBqQSUA", "73h12ueZ9P4", "7jpKk_VpZRA", "8B09y3sIHcA", "8uN-7kAUpTk", "90t1XSZXI2U", "9S9UNVME4tQ", "A_BuSmy7hvk", "C23h92PuJdY", "ChNwHH1Slyk", "DPDtoczO1cE", "DZbMIfk3wM8", "DhT8RPkRYe4", "ETugI1_TKr0", "FDjIcUdpT8U", "FdulTWCQfTQ", "Hb-gca46_bg", "HdMSqgtD3yE", "Ixu8ZK8ENio", "J1ugbLGIjT0", "J9bXhsZMG9k", "KHW61Pw3vn8", "KJBBI5SkLgQ", "KQBygmRGtTM", "M0Wha6RdIPY", "NRGlFwlzw30", "N_djt-XsdZs", "OyraC_WwubA", "P0mkJY4DIzo", "QXXxXIfr610", "Qp5JMH5aBl4", "RBqm-_HZckI", "RH5vUC9KlOs", "Ro8btyplk7U", "SsP25dSp6Gs", "Sz-rSzL2pGM", "TBDJX9M0AfM", "TFQakAJH6HE", "V6QDeG9iD5k", "V89NJidQs1Y", "W8Ypm3MS50c", "WRL8lZnw9tA", "XA5M6alBlYc", "XsbLyD3ZBcs", "Y0Qc8WpY4tM", "Zvv5pu2OeZA", "bxG6ifY0cik", "dKQLbWmM7Jw", "djH8eWBTlCE", "dnDlZW3Jcdk", "e3D1FHlwfwc", "eDcrmX7TNDc", "eFevIfscMVc", "eHcph5zC-SQ", "fNGMDUcJv1E", "g3PMDDdPLJc", "gNfCER2cAnc", "iv_-3yw-cGA", "jpWqkgomt7M", "k7H-9eZTnyY", "lQ_Crk2egQQ", "lRneS3XyVTo", "lzedPyhUueg", "mCS5EvRYE2s", "nF-fbILi_q8", "o_3fKlij9Zo", "obIiJgMzxR8", "p_ZJnGwcTtY", "piTR9wKwDnQ", "pk3nsX3HglI", "sdm8-0hN5QA", "sphT6eY3nP4", "sxgBRsBVhPo", "tJCZCw2I1Lk", "uuMKKmi-haw", "vzCsYFnE2OM", "wbzv4Iy_bGQ", "wpKTaVUYFUA", "y2S4umRR5oc", "yHLONags7Ps", "yahutvKx6vQ", "yjvTmiJlTJE" ]
 }
