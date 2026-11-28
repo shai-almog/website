@@ -101,6 +101,26 @@
     "avatar" : "https://yt3.googleusercontent.com/ytc/AIdro_k_YqpG6_Rrq2y48p7UlLkPQMKp1LCJ_5roQV7mVXuF2tQ=s176-c-k-c0x00ffffff-no-rj"
   } ],
   "videos" : [ {
+    "id" : "HRzE71LQxFM",
+    "channel" : "bienadam",
+    "title" : "Java on AWS Lambda Without Modifications",
+    "published" : "2026-11-27T15:43:06+00:00"
+  }, {
+    "id" : "wOzSFTa5htU",
+    "channel" : "jakartaee",
+    "title" : "JakartaOne Tech Talk: Spec-Driven Development with Kiro – Building AI-Aligned Software",
+    "published" : "2026-11-27T13:13:16+00:00"
+  }, {
+    "id" : "IpHvTXXPwJQ",
+    "channel" : "hszanowski",
+    "title" : "How should you test JetBrains IDEs UI?",
+    "published" : "2026-11-27T11:51:47+00:00"
+  }, {
+    "id" : "lcMjGZRFD4k",
+    "channel" : "hszanowski",
+    "title" : "How should you test JetBrains IDEs UI?",
+    "published" : "2026-11-27T11:36:25+00:00"
+  }, {
     "id" : "m2Z6fchF1zQ",
     "channel" : "coffeesoftware",
     "title" : "Thankful Coffee+Software",
@@ -115,11 +135,6 @@
     "channel" : "coffeesoftware",
     "title" : "JetBrains' 2027 Roadmap: a Polyglot IDE, Air, and Headless AI Agents | JetBrains CEO Kirill Skrygan",
     "published" : "2026-11-26T21:00:17+00:00"
-  }, {
-    "id" : "IpHvTXXPwJQ",
-    "channel" : "hszanowski",
-    "title" : "How should you test JetBrains IDEs UI?",
-    "published" : "2026-11-26T20:59:53+00:00"
   }, {
     "id" : "O_MOmxJ4k8k",
     "channel" : "bienadam",
@@ -155,11 +170,6 @@
     "channel" : "java",
     "title" : "Java in the Age of AI [AtA] Inside Java Podcast 76",
     "published" : "2026-11-26T10:49:32+00:00"
-  }, {
-    "id" : "lcMjGZRFD4k",
-    "channel" : "hszanowski",
-    "title" : "How should you test JetBrains IDEs UI?",
-    "published" : "2026-11-25T20:34:34+00:00"
   }, {
     "id" : "CBc1n0VpYwM",
     "channel" : "bienadam",
@@ -1696,5 +1706,5 @@
     "title" : "Volcano Airtour",
     "published" : "2008-12-06T22:37:13+00:00"
   } ],
-  "shorts" : [ "0PaX1ZEJkXE", "0WmtbS_ZgGg", "0ZqvxvecXEM", "21M2E7Ugqrw", "25p0SDaiDmI", "2B1N8j5ZO2g", "2NS7YOIT20M", "2Wm9OM6kHWY", "2udyOpSIOpw", "3AyOI_DjymM", "3KYWHdHfs5E", "3L78Fn4L-KQ", "3VBWQ6e9NpM", "45fVUuD9owU", "47owZK_H6ZY", "4CBp35oIEco", "4IDbT7v34jk", "4RFBnffdqTk", "4_O2OBqQSUA", "73h12ueZ9P4", "7jpKk_VpZRA", "8B09y3sIHcA", "8uN-7kAUpTk", "90t1XSZXI2U", "9S9UNVME4tQ", "A2ZlLpGeYF0", "A_BuSmy7hvk", "C23h92PuJdY", "ChNwHH1Slyk", "DPDtoczO1cE", "DZbMIfk3wM8", "DhT8RPkRYe4", "ETugI1_TKr0", "EZqaeauSSYw", "FDjIcUdpT8U", "FdulTWCQfTQ", "GWtUXkUXezY", "H3QoqwGU2_E", "H5-JUndlPW8", "Hb-gca46_bg", "HdMSqgtD3yE", "Ixu8ZK8ENio", "J1ugbLGIjT0", "J9bXhsZMG9k", "JpO1xa0NN5k", "KHW61Pw3vn8", "KJBBI5SkLgQ", "KQBygmRGtTM", "KbMfm62U4G4", "LuVFCPV3AVE", "M0Wha6RdIPY", "NHQ1plrPB5c", "NOvx9jRmZME", "NRGlFwlzw30", "N_djt-XsdZs", "Nj-Kw9FZ-Vs", "OAaOcs4rC1s", "OyraC_WwubA", "P0mkJY4DIzo", "PdS6RBMfBCk", "PuiM2awGqHo", "Pxb0PDKMbJo", "QXXxXIfr610", "QkbpRZ5jFo8", "Qp5JMH5aBl4", "RBqm-_HZckI", "RH5vUC9KlOs", "Ro8btyplk7U", "SsP25dSp6Gs", "Sz-rSzL2pGM", "TBDJX9M0AfM", "TFQakAJH6HE", "V6QDeG9iD5k", "V89NJidQs1Y", "W8Ypm3MS50c", "WRL8lZnw9tA", "XA5M6alBlYc", "X_Z2sYRtEQw", "XsbLyD3ZBcs", "Y0Qc8WpY4tM", "YljdZUBvs9Y", "Zvv5pu2OeZA", "_pjajf-5eJg", "a792mHg66mI", "bUIrCAHPFFQ", "boC8-3tqdb8", "bxG6ifY0cik", "dKQLbWmM7Jw", "dUlEECmrveI", "djH8eWBTlCE", "dnDlZW3Jcdk", "dzJLnx0nl1o", "e3D1FHlwfwc", "eDcrmX7TNDc", "eFevIfscMVc", "eHcph5zC-SQ", "fKYWemlL9rc", "fNGMDUcJv1E", "g3PMDDdPLJc", "gNfCER2cAnc", "hFQFBLYdeZI", "iv_-3yw-cGA", "jX7F7Kh-qkM", "jd9709mCtk0", "jpWqkgomt7M", "k7H-9eZTnyY", "kzq9Tx8-xfE", "lQ_Crk2egQQ", "lRneS3XyVTo", "lzedPyhUueg", "mCS5EvRYE2s", "mIAmR7iGAKA", "nF-fbILi_q8", "oE8HegdLjKc", "o_3fKlij9Zo", "obIiJgMzxR8", "pXPywSj7pdI", "pZwOqnTIrhc", "p_ZJnGwcTtY", "piTR9wKwDnQ", "pk3nsX3HglI", "q3_9wgmL4kU", "qY-3gqnh92s", "rasIV4YYW20", "sdm8-0hN5QA", "sphT6eY3nP4", "sxgBRsBVhPo", "tJCZCw2I1Lk", "uuMKKmi-haw", "vWCPN_qvGh4", "vzCsYFnE2OM", "wbzv4Iy_bGQ", "wpKTaVUYFUA", "wq28DQiVO-8", "xJgXvjk6Wa4", "y2S4umRR5oc", "yHLONags7Ps", "yahutvKx6vQ", "yjvTmiJlTJE", "zmTVH8A6lZY" ]
+  "shorts" : [ "-KxB_z5HEUY", "0PaX1ZEJkXE", "0WmtbS_ZgGg", "0ZqvxvecXEM", "21M2E7Ugqrw", "25p0SDaiDmI", "2B1N8j5ZO2g", "2NS7YOIT20M", "2Wm9OM6kHWY", "2udyOpSIOpw", "3AyOI_DjymM", "3KYWHdHfs5E", "3L78Fn4L-KQ", "3VBWQ6e9NpM", "45fVUuD9owU", "47owZK_H6ZY", "4CBp35oIEco", "4IDbT7v34jk", "4RFBnffdqTk", "4_O2OBqQSUA", "73h12ueZ9P4", "7jpKk_VpZRA", "8B09y3sIHcA", "8uN-7kAUpTk", "90t1XSZXI2U", "9S9UNVME4tQ", "A2ZlLpGeYF0", "A_BuSmy7hvk", "C23h92PuJdY", "ChNwHH1Slyk", "DPDtoczO1cE", "DZbMIfk3wM8", "DhT8RPkRYe4", "ETugI1_TKr0", "EZqaeauSSYw", "FDjIcUdpT8U", "FdulTWCQfTQ", "GWtUXkUXezY", "H3QoqwGU2_E", "H5-JUndlPW8", "Hb-gca46_bg", "HdMSqgtD3yE", "Ixu8ZK8ENio", "J1ugbLGIjT0", "J9bXhsZMG9k", "JpO1xa0NN5k", "KHW61Pw3vn8", "KJBBI5SkLgQ", "KQBygmRGtTM", "KbMfm62U4G4", "LqjuQQMHVJw", "LuVFCPV3AVE", "LviLcfX_qWM", "M0Wha6RdIPY", "NHQ1plrPB5c", "NOvx9jRmZME", "NRGlFwlzw30", "N_djt-XsdZs", "Nj-Kw9FZ-Vs", "OAaOcs4rC1s", "OyraC_WwubA", "P0mkJY4DIzo", "PdS6RBMfBCk", "PuiM2awGqHo", "Pxb0PDKMbJo", "QXXxXIfr610", "QkbpRZ5jFo8", "Qp5JMH5aBl4", "RBqm-_HZckI", "RH5vUC9KlOs", "Ro8btyplk7U", "S9IEOyHPOc0", "SsP25dSp6Gs", "Sz-rSzL2pGM", "TBDJX9M0AfM", "TFQakAJH6HE", "V6QDeG9iD5k", "V89NJidQs1Y", "W8Ypm3MS50c", "WRL8lZnw9tA", "XA5M6alBlYc", "X_Z2sYRtEQw", "XsbLyD3ZBcs", "Y0Qc8WpY4tM", "YljdZUBvs9Y", "Zvv5pu2OeZA", "_pjajf-5eJg", "a792mHg66mI", "bUIrCAHPFFQ", "boC8-3tqdb8", "bxG6ifY0cik", "dKQLbWmM7Jw", "dUlEECmrveI", "djH8eWBTlCE", "dnDlZW3Jcdk", "dzJLnx0nl1o", "e3D1FHlwfwc", "eDcrmX7TNDc", "eFevIfscMVc", "eHcph5zC-SQ", "eTZMVXvq1yA", "etp_3ntK23o", "fKYWemlL9rc", "fNGMDUcJv1E", "g3PMDDdPLJc", "gNfCER2cAnc", "hFQFBLYdeZI", "iv_-3yw-cGA", "jX7F7Kh-qkM", "jd9709mCtk0", "jpWqkgomt7M", "k7H-9eZTnyY", "kzq9Tx8-xfE", "lQ_Crk2egQQ", "lRneS3XyVTo", "lzedPyhUueg", "mCS5EvRYE2s", "mIAmR7iGAKA", "nF-fbILi_q8", "oE8HegdLjKc", "o_3fKlij9Zo", "obIiJgMzxR8", "pXPywSj7pdI", "pZwOqnTIrhc", "p_ZJnGwcTtY", "piTR9wKwDnQ", "pk3nsX3HglI", "q3_9wgmL4kU", "qY-3gqnh92s", "rasIV4YYW20", "sdm8-0hN5QA", "sphT6eY3nP4", "sxgBRsBVhPo", "tJCZCw2I1Lk", "uuMKKmi-haw", "vWCPN_qvGh4", "vcbFO6c68xY", "vzCsYFnE2OM", "wbzv4Iy_bGQ", "wpKTaVUYFUA", "wq28DQiVO-8", "xJgXvjk6Wa4", "y2S4umRR5oc", "yHLONags7Ps", "yahutvKx6vQ", "yf5DVtg-vjU", "yjvTmiJlTJE", "zmTVH8A6lZY" ]
 }
